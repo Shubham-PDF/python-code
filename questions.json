@@ -1,0 +1,1195 @@
+[
+    {
+        "question": "What is a semaphore in an operating system? [OS Q0]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q1]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q2]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q3]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q4]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q5]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q6]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q7]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q8]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q9]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between TCP and UDP? [CN Q10]",
+        "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transfer, while UDP is a connectionless protocol that is faster but does not guarantee data delivery.",
+        "keywords": [
+            "TCP",
+            "UDP",
+            "connection-oriented",
+            "connectionless",
+            "reliable",
+            "fast"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the difference between Stack and Queue. [DSA Q11]",
+        "ideal_answer": "Stack follows the LIFO principle, while Queue follows the FIFO principle.",
+        "keywords": [
+            "Stack",
+            "Queue",
+            "LIFO",
+            "FIFO"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the purpose of virtual memory? [OS Q12]",
+        "ideal_answer": "Virtual memory allows execution of processes that may not be completely in memory, by using disk space as extension of RAM.",
+        "keywords": [
+            "virtual memory",
+            "disk",
+            "RAM",
+            "execution",
+            "extension"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the function of a router? [CN Q13]",
+        "ideal_answer": "A router forwards data packets between computer networks, ensuring data reaches the correct destination.",
+        "keywords": [
+            "router",
+            "data packets",
+            "forward",
+            "computer networks",
+            "destination"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe a hash table. [DSA Q14]",
+        "ideal_answer": "A hash table stores key-value pairs using a hash function to compute an index into an array of buckets.",
+        "keywords": [
+            "hash table",
+            "key-value",
+            "hash function",
+            "index",
+            "array"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a semaphore in an operating system? [OS Q15]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q16]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q17]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q18]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q19]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q20]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q21]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q22]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q23]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q24]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between TCP and UDP? [CN Q25]",
+        "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transfer, while UDP is a connectionless protocol that is faster but does not guarantee data delivery.",
+        "keywords": [
+            "TCP",
+            "UDP",
+            "connection-oriented",
+            "connectionless",
+            "reliable",
+            "fast"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the difference between Stack and Queue. [DSA Q26]",
+        "ideal_answer": "Stack follows the LIFO principle, while Queue follows the FIFO principle.",
+        "keywords": [
+            "Stack",
+            "Queue",
+            "LIFO",
+            "FIFO"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the purpose of virtual memory? [OS Q27]",
+        "ideal_answer": "Virtual memory allows execution of processes that may not be completely in memory, by using disk space as extension of RAM.",
+        "keywords": [
+            "virtual memory",
+            "disk",
+            "RAM",
+            "execution",
+            "extension"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the function of a router? [CN Q28]",
+        "ideal_answer": "A router forwards data packets between computer networks, ensuring data reaches the correct destination.",
+        "keywords": [
+            "router",
+            "data packets",
+            "forward",
+            "computer networks",
+            "destination"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe a hash table. [DSA Q29]",
+        "ideal_answer": "A hash table stores key-value pairs using a hash function to compute an index into an array of buckets.",
+        "keywords": [
+            "hash table",
+            "key-value",
+            "hash function",
+            "index",
+            "array"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a semaphore in an operating system? [OS Q30]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q31]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q32]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q33]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q34]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q35]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q36]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q37]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q38]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q39]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between TCP and UDP? [CN Q40]",
+        "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transfer, while UDP is a connectionless protocol that is faster but does not guarantee data delivery.",
+        "keywords": [
+            "TCP",
+            "UDP",
+            "connection-oriented",
+            "connectionless",
+            "reliable",
+            "fast"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the difference between Stack and Queue. [DSA Q41]",
+        "ideal_answer": "Stack follows the LIFO principle, while Queue follows the FIFO principle.",
+        "keywords": [
+            "Stack",
+            "Queue",
+            "LIFO",
+            "FIFO"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the purpose of virtual memory? [OS Q42]",
+        "ideal_answer": "Virtual memory allows execution of processes that may not be completely in memory, by using disk space as extension of RAM.",
+        "keywords": [
+            "virtual memory",
+            "disk",
+            "RAM",
+            "execution",
+            "extension"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the function of a router? [CN Q43]",
+        "ideal_answer": "A router forwards data packets between computer networks, ensuring data reaches the correct destination.",
+        "keywords": [
+            "router",
+            "data packets",
+            "forward",
+            "computer networks",
+            "destination"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe a hash table. [DSA Q44]",
+        "ideal_answer": "A hash table stores key-value pairs using a hash function to compute an index into an array of buckets.",
+        "keywords": [
+            "hash table",
+            "key-value",
+            "hash function",
+            "index",
+            "array"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a semaphore in an operating system? [OS Q45]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q46]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q47]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q48]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q49]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q50]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q51]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q52]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q53]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q54]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between TCP and UDP? [CN Q55]",
+        "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transfer, while UDP is a connectionless protocol that is faster but does not guarantee data delivery.",
+        "keywords": [
+            "TCP",
+            "UDP",
+            "connection-oriented",
+            "connectionless",
+            "reliable",
+            "fast"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the difference between Stack and Queue. [DSA Q56]",
+        "ideal_answer": "Stack follows the LIFO principle, while Queue follows the FIFO principle.",
+        "keywords": [
+            "Stack",
+            "Queue",
+            "LIFO",
+            "FIFO"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the purpose of virtual memory? [OS Q57]",
+        "ideal_answer": "Virtual memory allows execution of processes that may not be completely in memory, by using disk space as extension of RAM.",
+        "keywords": [
+            "virtual memory",
+            "disk",
+            "RAM",
+            "execution",
+            "extension"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the function of a router? [CN Q58]",
+        "ideal_answer": "A router forwards data packets between computer networks, ensuring data reaches the correct destination.",
+        "keywords": [
+            "router",
+            "data packets",
+            "forward",
+            "computer networks",
+            "destination"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe a hash table. [DSA Q59]",
+        "ideal_answer": "A hash table stores key-value pairs using a hash function to compute an index into an array of buckets.",
+        "keywords": [
+            "hash table",
+            "key-value",
+            "hash function",
+            "index",
+            "array"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a semaphore in an operating system? [OS Q60]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q61]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q62]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q63]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q64]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q65]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q66]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q67]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q68]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q69]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between TCP and UDP? [CN Q70]",
+        "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transfer, while UDP is a connectionless protocol that is faster but does not guarantee data delivery.",
+        "keywords": [
+            "TCP",
+            "UDP",
+            "connection-oriented",
+            "connectionless",
+            "reliable",
+            "fast"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the difference between Stack and Queue. [DSA Q71]",
+        "ideal_answer": "Stack follows the LIFO principle, while Queue follows the FIFO principle.",
+        "keywords": [
+            "Stack",
+            "Queue",
+            "LIFO",
+            "FIFO"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the purpose of virtual memory? [OS Q72]",
+        "ideal_answer": "Virtual memory allows execution of processes that may not be completely in memory, by using disk space as extension of RAM.",
+        "keywords": [
+            "virtual memory",
+            "disk",
+            "RAM",
+            "execution",
+            "extension"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the function of a router? [CN Q73]",
+        "ideal_answer": "A router forwards data packets between computer networks, ensuring data reaches the correct destination.",
+        "keywords": [
+            "router",
+            "data packets",
+            "forward",
+            "computer networks",
+            "destination"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe a hash table. [DSA Q74]",
+        "ideal_answer": "A hash table stores key-value pairs using a hash function to compute an index into an array of buckets.",
+        "keywords": [
+            "hash table",
+            "key-value",
+            "hash function",
+            "index",
+            "array"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a semaphore in an operating system? [OS Q75]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q76]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q77]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q78]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q79]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q80]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q81]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q82]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q83]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q84]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the difference between TCP and UDP? [CN Q85]",
+        "ideal_answer": "TCP is a connection-oriented protocol that ensures reliable data transfer, while UDP is a connectionless protocol that is faster but does not guarantee data delivery.",
+        "keywords": [
+            "TCP",
+            "UDP",
+            "connection-oriented",
+            "connectionless",
+            "reliable",
+            "fast"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the difference between Stack and Queue. [DSA Q86]",
+        "ideal_answer": "Stack follows the LIFO principle, while Queue follows the FIFO principle.",
+        "keywords": [
+            "Stack",
+            "Queue",
+            "LIFO",
+            "FIFO"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the purpose of virtual memory? [OS Q87]",
+        "ideal_answer": "Virtual memory allows execution of processes that may not be completely in memory, by using disk space as extension of RAM.",
+        "keywords": [
+            "virtual memory",
+            "disk",
+            "RAM",
+            "execution",
+            "extension"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the function of a router? [CN Q88]",
+        "ideal_answer": "A router forwards data packets between computer networks, ensuring data reaches the correct destination.",
+        "keywords": [
+            "router",
+            "data packets",
+            "forward",
+            "computer networks",
+            "destination"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe a hash table. [DSA Q89]",
+        "ideal_answer": "A hash table stores key-value pairs using a hash function to compute an index into an array of buckets.",
+        "keywords": [
+            "hash table",
+            "key-value",
+            "hash function",
+            "index",
+            "array"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a semaphore in an operating system? [OS Q90]",
+        "ideal_answer": "Semaphore is a synchronization primitive used to control access to shared resources in concurrent processes.",
+        "keywords": [
+            "semaphore",
+            "synchronization",
+            "shared resource",
+            "concurrent",
+            "access control"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of an IP Address. [CN Q91]",
+        "ideal_answer": "An IP address is a unique numerical label assigned to a device on a network to enable communication and identification.",
+        "keywords": [
+            "IP address",
+            "unique",
+            "network",
+            "communication",
+            "identification"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is a binary search tree? [DSA Q92]",
+        "ideal_answer": "A binary search tree is a node-based data structure where left child nodes contain lesser values and right child nodes contain greater values.",
+        "keywords": [
+            "binary search tree",
+            "node",
+            "left",
+            "right",
+            "values"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Describe the role of an operating system. [OS Q93]",
+        "ideal_answer": "The operating system manages hardware and software resources and provides services to applications.",
+        "keywords": [
+            "operating system",
+            "hardware",
+            "software",
+            "resources",
+            "services"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is HTTP and how is it used? [CN Q94]",
+        "ideal_answer": "HTTP is a protocol used for transferring hypertext between clients and servers on the web.",
+        "keywords": [
+            "HTTP",
+            "protocol",
+            "hypertext",
+            "clients",
+            "servers"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is the time complexity of QuickSort in the worst case? [DSA Q95]",
+        "ideal_answer": "The worst-case time complexity of QuickSort occurs when the pivot is always the smallest or largest element, leading to O(n^2) complexity.",
+        "keywords": [
+            "QuickSort",
+            "worst-case",
+            "pivot",
+            "O(n^2)"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "Explain the concept of a Deadlock. [OS Q96]",
+        "ideal_answer": "Deadlock is a condition where multiple processes are unable to proceed because each process is waiting for a resource held by another process.",
+        "keywords": [
+            "deadlock",
+            "mutual exclusion",
+            "circular wait",
+            "hold and wait",
+            "no preemption"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is DNS and how does it work? [CN Q97]",
+        "ideal_answer": "DNS translates domain names into IP addresses, allowing users to access websites using names instead of numbers.",
+        "keywords": [
+            "DNS",
+            "domain name",
+            "IP address",
+            "translate",
+            "websites"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What is dynamic programming? [DSA Q98]",
+        "ideal_answer": "Dynamic programming is a method for solving complex problems by breaking them down into simpler subproblems and storing the results.",
+        "keywords": [
+            "dynamic programming",
+            "subproblems",
+            "memoization",
+            "optimal",
+            "store results"
+        ],
+        "marks": 5
+    },
+    {
+        "question": "What are system calls? [OS Q99]",
+        "ideal_answer": "System calls provide an interface between a process and the operating system for services.",
+        "keywords": [
+            "system call",
+            "interface",
+            "process",
+            "services",
+            "operating system"
+        ],
+        "marks": 5
+    }
+]
